@@ -1,9 +1,9 @@
-# 🌅 KieDex BOT
+# KieDex BOT
 
 > Automated airdrop farming with multi-account and proxy support
 
 
-## 🎯 Overview
+## Overview
 
 KieDex BOT is an automated tool designed to airdrop farming across multiple accounts. It provides seamless offers robust proxy support for enhanced security and reliability performance.
 
@@ -11,7 +11,7 @@ KieDex BOT is an automated tool designed to airdrop farming across multiple acco
 
 > **Important:** signup with google and connect new evm wallet
 
-## ✨ Features
+## Features
 
 - 🔄 **Automated Account Management** - Retrieve account information automatically
 - 🌐 **Flexible Proxy Support** - Run with or without proxy configuration
@@ -21,7 +21,7 @@ KieDex BOT is an automated tool designed to airdrop farming across multiple acco
 - 📝 **Complete Tasks** - Automated complete available tasks
 - 👥 **Multi-Account Support** - Manage multiple accounts simultaneously
 
-## 📋 Requirements
+## Requirements
 
 - **Python:** Version 3.9 or higher
 - **pip:** Latest version recommended
@@ -43,7 +43,7 @@ pip install -r requirements.txt
 pip3 install -r requirements.txt
 ```
 
-## ⚙️ Configuration
+## Configuration
 
 ### Account Configuration
 
@@ -107,7 +107,7 @@ When starting the bot, you'll be prompted to choose:
    - `y`: Enable automatic invalid proxy rotation
    - `n`: Disable auto-rotation
 
-## 💖 Support the Project
+## Support the Project
 
 If this project has been helpful to you, consider supporting its development:
 
